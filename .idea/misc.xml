@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/21-springboot-thymeleaf-vue-restful" />
+    <file type="web" url="file://$PROJECT_DIR$/ch05-register-login" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/ch01/pom.xml" />
+        <option value="$PROJECT_DIR$/ch02/pom.xml" />
+        <option value="$PROJECT_DIR$/ch03-DI/pom.xml" />
+        <option value="$PROJECT_DIR$/ch04-websocket/pom.xml" />
+        <option value="$PROJECT_DIR$/ch05-registerlogin/pom.xml" />
+        <option value="$PROJECT_DIR$/8-mvc-without-spring/pom.xml" />
+        <option value="$PROJECT_DIR$/9-spring-ioc/pom.xml" />
+        <option value="$PROJECT_DIR$/8-remove-coupleing-without-spring/pom.xml" />
+        <option value="$PROJECT_DIR$/10-spring-aop/pom.xml" />
+        <option value="$PROJECT_DIR$/11-springboot/pom.xml" />
+        <option value="$PROJECT_DIR$/12-springboot-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/12-springboot-data-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/13-springboot-data-note/pom.xml" />
+        <option value="$PROJECT_DIR$/14-springboot-data-mybatis-xml/pom.xml" />
+        <option value="$PROJECT_DIR$/15-springboot-crud-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/16-springboot-crud-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/17-springboot-crud-jpa-restful/pom.xml" />
+        <option value="$PROJECT_DIR$/18-springboot-crud-jpa-restful-json/pom.xml" />
+        <option value="$PROJECT_DIR$/19-springboot-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/20-springboot-thymeleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/21-springboot-thymeleaf-vue-restful/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" project-jdk-name="15" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
